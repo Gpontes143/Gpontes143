@@ -4,13 +4,13 @@
   <img align="right" width="100px" alt="DanielCyberpunk" src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Cyberpunk.gif" />
 </div>
 
-<br>
+<br>   
   
   ## Contato
 <div>
   <a href="https://github.com/Gpontes143/Gpontes143">
-  <img height= "150em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Macedo-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Macedo-dev&layout=compact&langs_count=4&theme=midnight-purple"/>
+  <img height= "150em" src="https://github-readme-stats.vercel.app/api?username=Guilherme Pontes Campos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme Pontes Campos&layout=compact&langs_count=4&theme=midnight-purple"/>
 </div>
     
 <div style="display: inline_block"><br> 
