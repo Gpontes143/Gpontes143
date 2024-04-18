@@ -7,15 +7,9 @@
 <br>   
   
   ## Contato
-  <div>
+<div>
   <a href="https://github.com/Gpontes143/Gpontes143">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gpontes143)](https://github.com/Gpontes143/github-readme-stats)
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gpontes143&layout=compact&langs_count=4&theme=midnight-purple"/>
-</div>
-    
-<div style="display: inline_block"><br> 
   
-  <a href = "mailto:Gpontes143@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gpontes143)](https://github.com/Gpontes143/github-readme-stats)  
+
 </div>
