@@ -1,6 +1,6 @@
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Icons" height="50" width="200" src="https://skillicons.dev/icons?i=js,html,css,vscode,py,java,git" />  <img align="center" alt="Icons" height="50" width="200" src="> 
+  <img align="center" alt="Icons" height="90" width="290" src="https://skillicons.dev/icons?i=js,html,css,vscode,py,java,git" />  <img align="center" alt="Icons" height="37" width="37" src=https://github.com/Gpontes143/Gpontes143/blob/main/Imagem/gamemaker.png?raw=true"> 
   
   <img align="right" width="100px" alt="GpontesCyberpunk" src="https://github.com/Gpontes143/Gpontes143/blob/main/Imagem/cyberp.gif"/>
 </div>
