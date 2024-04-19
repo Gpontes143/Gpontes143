@@ -15,7 +15,7 @@
   <img height=150em src="https://github-readme-stats.vercel.app/api?username=Gpontes143&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/Gpontes143/convoychat">
-  <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs?username=Gpontes143&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
+  <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs?username=Gpontes143&layout=compact&langs_count=8&theme=midnight-purple" />
 </a>
 </div>
 
