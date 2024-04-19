@@ -21,7 +21,7 @@
 
 ## Linguagens e ferramentas
 <div style="display: inline_block"><br>
-<img alt="Icons" align="center" height="90" width="290" src="https://skillicons.dev/icons?i=js,html,css,vscode,py,java,git" />  <img align="center"src=https://github.com/Gpontes143/Gpontes143/blob/main/Imagem/gamemaker.png? alt="Icons" height="37" width="37" raw=true"> 
+<img alt="Icons" align="center" height="40" width="290" src="https://skillicons.dev/icons?i=js,html,css,vscode,py,java,git" />  <img align="center"src=https://github.com/Gpontes143/Gpontes143/blob/main/Imagem/gamemaker.png? alt="Icons" height="37" width="37" raw=true"> 
   
   
 </div>
