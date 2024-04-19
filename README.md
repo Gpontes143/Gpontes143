@@ -1,18 +1,11 @@
 ### Guilherme Pontes 👋
 
 
-<div>
-  <img align="right" height="100px" width="150px" alt="GpontesCyberpunk" src="https://github.com/Gpontes143/Gpontes143/blob/main/Imagem/cyber.gif?raw=true"/>
 
-  </div>
+<img align="right" height="50px" width="100px" alt="GpontesCyberpunk" src="https://github.com/Gpontes143/Gpontes143/blob/main/Imagem/cyber.gif?raw=true"/>
 
+<div/>
 
-#   Conhecimentos
-<div style="display: inline_block"><br>
-  <img align="center" alt="Icons" height="90" width="290" src="https://skillicons.dev/icons?i=js,html,css,vscode,py,java,git" />  <img align="center"src=https://github.com/Gpontes143/Gpontes143/blob/main/Imagem/gamemaker.png? alt="Icons" height="37" width="37" raw=true"> 
-  
-  
-</div>
 
 <br>   
   
@@ -24,6 +17,13 @@
 <a href="https://github.com/Gpontes143/convoychat">
   <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs?username=Gpontes143&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
 </a>
+</div>
+
+## Conhecimentos
+<div style="display: inline_block"><br>
+  <img align="center" alt="Icons" height="90" width="290" src="https://skillicons.dev/icons?i=js,html,css,vscode,py,java,git" />  <img align="center"src=https://github.com/Gpontes143/Gpontes143/blob/main/Imagem/gamemaker.png? alt="Icons" height="37" width="37" raw=true"> 
+  
+  
 </div>
 
   ##  Contatos
