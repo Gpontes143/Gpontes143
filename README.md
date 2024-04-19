@@ -1,6 +1,5 @@
 <div style="display: inline_block"><br>
-  <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Icon-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js,html,css,wasm" />
   <img align="right" width="200px" alt="GpontesCyberpunk" src=""/>
 </div>
 
