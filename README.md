@@ -1,6 +1,7 @@
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Icon-Js" height="50" width="200" src="https://skillicons.dev/icons?i=js,html,css,wasm" />
+  <img align="center" alt="Icons" height="50" width="200" src="https://skillicons.dev/icons?i=js,html,css,vscode,py,java,git" />  <img align="center" alt="Icons" height="50" width="200" src="> 
+  
   <img align="right" width="100px" alt="GpontesCyberpunk" src="https://github.com/Gpontes143/Gpontes143/blob/main/Imagem/cyberp.gif"/>
 </div>
 
