@@ -29,7 +29,7 @@
 ##  Contatos
 <div>
 <a href="mailto:Gpontes143@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+<a href="https://discord.gg/kn7cRvfW3P" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 </div>
 
