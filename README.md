@@ -21,7 +21,7 @@
 
 ## Linguagens e ferramentas
 <div style="display: inline_block"><br>
-<img alt="Icons" align="center" height="40" width="290" src="https://skillicons.dev/icons?i=html,py,java,cpp,git" />  
+<img alt="Icons" align="center" height="40" width="290" src="https://skillicons.dev/icons?i=html,py,java,git" />  
   
 </div>
 
