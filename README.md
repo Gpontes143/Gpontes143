@@ -10,14 +10,19 @@
 <br>   
   
   ## Status
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Gpontes143&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  </div>
-  <div>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Gpontes143&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak">
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Gpontes143&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    </td>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Gpontes143&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gpontes143&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gpontes143&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## Linguagens e ferramentas
