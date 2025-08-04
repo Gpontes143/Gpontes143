@@ -8,17 +8,9 @@
 
 ## Status
 
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gpontes143&theme=catppuccin_mocha" alt="Resumo GitHub"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gpontes143&theme=catppuccin_mocha" alt="Estatísticas"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gpontes143&theme=catppuccin_mocha&utcOffset=-3" alt="Horário produtivo"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gpontes143&theme=catppuccin_mocha" alt="Linguagens por repositório"/>
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Gpontes143&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gpontes143&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gpontes143&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Linguagens e ferramentas
 
