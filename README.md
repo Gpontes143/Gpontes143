@@ -5,11 +5,10 @@
 <div/>
 
 <br>
-
 ## Status
 <div align="center"> 
- <img height="150em" src= "https://github-readme-stats.vercel.app/api?username=Gpontes143&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true"/>
- <img height="150em" src= "https://nirzak-streak-stats.vercel.app/?user=Gpontes143&theme=catppuccin_mocha&hide_border=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gpontes143&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://nirzak-streak-stats.vercel.app/?user=Gpontes143&theme=catppuccin_mocha&hide_border=false"/>
 </div>
 
 ## Linguagens e ferramentas
