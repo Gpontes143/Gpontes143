@@ -11,14 +11,6 @@
 
 
 
-
-## Status
-
-<div align="center"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gpontes143&theme=catppuccin_mocha&hide_border=false"/>
-  <img height="150em" src="https://nirzak-streak-stats.vercel.app/?user=Gpontes143&theme=catppuccin_mocha&hide_border=false"/>
-</div>
-
 ## Linguagens e ferramentas
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
