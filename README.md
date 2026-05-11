@@ -5,18 +5,16 @@
   
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gpontes143&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
-###
+
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQzdGoybzJzamtiaGp0ejRvbnZlMnRubXZ0Y2Z2eWxscXVxc25wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
-###
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
