@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋! My name is Guilherme Pontes and I'm a Developer, from Sao Paulo</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gpontes143&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gpontes143&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gpontes143&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gpontes143&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
-
 ###
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQzdGoybzJzamtiaGp0ejRvbnZlMnRubXZ0Y2Z2eWxscXVxc25wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
