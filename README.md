@@ -21,7 +21,7 @@
 
 ## 🧩 Minha stack (na prática)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,nodejs" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,python" />
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino,docker,linux,arch,git,github" />
@@ -72,10 +72,10 @@ O que esse projeto demonstra:
 
 ## 📫 Contato
 <div align="center">
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:gpontes143@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/" target="_blank" rel="noopener noreferrer">
+  <a href="www.linkedin.com/in/guilherme-pontes-campos-bb3729300" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
