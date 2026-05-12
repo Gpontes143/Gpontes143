@@ -59,15 +59,12 @@ O que esse projeto demonstra:
 ---
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQzdGoybzJzamtiaGp0ejRvbnZlMnRubXZ0Y2Z2eWxscXVxc25wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
 ## 📊 GitHub em números
 <div align="left">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gpontes143&show_icons=true&theme=gruvbox&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gpontes143&layout=compact&theme=gruvbox&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gpontes143&show_icons=true&theme=gruvbox&hide_border=true"/>&nbsp;<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gpontes143&layout=compact&theme=gruvbox&hide_border=true"/>
 </div>
 
 <br clear="both">
-
 ---
 
 ## 📫 Contato
