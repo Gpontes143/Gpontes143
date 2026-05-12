@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=24&center=true&vCenter=true&width=1000&lines=Integra%C3%A7%C3%A3o+Hardware%2FSoftware;Automa%C3%A7%C3%A3o+e+IoT+(Arduino%2FESP32);Utilit%C3%A1rios+CLI+com+Go;Game+Dev+com+Godot" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=24&center=true&vCenter=true&width=1000&lines=Integra%C3%A7%C3%A3o+Hardware%2FSoftware;Automa%C3%A7%C3%A3o+e+IoT+(Arduino%2FESP32);Utilit%C3%A1rios+CLI+com+Go" />
 </p>
 
 ---
@@ -15,14 +15,13 @@
 ## 👇 O que você vai encontrar aqui
 - Projetos focados em **eletrônica, IoT e automação** para soluções do mundo real (como automação cervejeira).
 - Utilitários de terminal e ferramentas de sistema escritas em **Go** e **C/C++**.
-- Explorações em **desenvolvimento de jogos** focados em produtividade.
 - Infraestrutura, self-hosting e troubleshooting avançado com **Docker**.
 
 ---
 
 ## 🧩 Minha stack (na prática)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,nodejs" />
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino,docker,linux,arch,git,github" />
@@ -52,6 +51,12 @@ O que esse projeto demonstra:
 
 ---
 
+## 🧠 Como eu costumo trabalhar
+- **Otimização de ponta a ponta:** Do uso eficiente de recursos (trabalhando em ambientes customizados como Arch Linux e Hyprland) até a arquitetura do código final.
+- **Resolução de problemas na raiz:** Seja configurando redes de containers em nodes Umbrel ou depurando comunicação serial, o foco é entender como o sistema se comporta por baixo dos panos.
+- **Projetos com propósito:** Aplicando engenharia e programação para resolver problemas reais e construir soluções físicas.
+
+---
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQzdGoybzJzamtiaGp0ejRvbnZlMnRubXZ0Y2Z2eWxscXVxc25wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
